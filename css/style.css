@@ -42,7 +42,7 @@ html {
 }
 
 body {
-    font-family: sans-serif;
+    font-family: 'Rubik', sans-serif;
     line-height: 1;
     font-weight: 400;
     color: #555;
@@ -83,6 +83,7 @@ body {
     display: inline-block;
     text-decoration: none;
     font-size: 2rem;
+    font-weight: 600;
     color: #fff;
     padding: 1.6rem 3.2rem;
     border-radius: 10px;
