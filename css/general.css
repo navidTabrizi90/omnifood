@@ -30,7 +30,7 @@ Paragraph default: 1.6
 
 - Shades:#cf711f
 - Accents:
-- Grays: #555, #333
+- Grays: #555, #333 #888 #777
 
 --- 05 SHADOWS
 
@@ -199,7 +199,7 @@ body {
   margin-bottom: 4.8rem !important;
 }
 
-.center-text{
+.center-text {
   text-align: center;
 }
 
