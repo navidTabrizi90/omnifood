@@ -32,7 +32,11 @@ Paragraph default: 1.6
 #cf711f
 #2e1907
 - Accents:
-- Grays: #555, #333 #888 #777 #6d6d6d
+- Grays: 
+#767676(lightest gray allowed on #fff)
+#6d6d6d(lightest gray allowed on #fdf2e9)
+
+#555, #333 #777 
 
 --- 05 SHADOWS
 
